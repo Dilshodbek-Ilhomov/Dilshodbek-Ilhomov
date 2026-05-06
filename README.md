@@ -78,27 +78,6 @@ Backend first.
 
 
 
-
-### `> ACTIVITY GRAPH`
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dilshodbek-ilhomov&bg_color=00000000&color=00d4ff&line=00d4ff&point=7dd3fc&hide_border=true" />
-
-</div>
-
----
-
-### `> ESTABLISH CONNECTION`
-
-<div align="center">
-
-[![Telegram](https://img.shields.io/badge/Telegram-@Dilshodbek__AI-00d4ff?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0d1117)](https://t.me/Dilshodbek_AI)
-
-</div>
-
----
-
 <div align="center">
 
 ```
