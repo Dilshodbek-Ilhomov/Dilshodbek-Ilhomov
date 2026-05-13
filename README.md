@@ -30,7 +30,6 @@ $ ./initialize_developer.sh
 
 [![Python](https://skillicons.dev/icons?i=python)](https://python.org)
 [![Django](https://skillicons.dev/icons?i=django)](https://djangoproject.com)
-[![FastAPI](https://skillicons.dev/icons?i=fastapi)](https://fastapi.tiangolo.com)
 [![PostgreSQL](https://skillicons.dev/icons?i=postgres)](https://postgresql.org)
 [![Docker](https://skillicons.dev/icons?i=docker)](https://docker.com)
 [![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com)
